@@ -1,4 +1,4 @@
-equire 'pry'
+require 'pry'
 
 # class is an object with instructions for the behaviors of it's instances. 
 
